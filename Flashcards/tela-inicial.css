@@ -8,6 +8,14 @@ body {
     margin: 0;
 }
 
+img{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 45px;
+    
+}
+
 .cinza_escuro {
     background-color: #222;
     width: 100vw;
